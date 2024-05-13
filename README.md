@@ -57,4 +57,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Asif Imtiaz**: Data analysis, visualization.
 - **Long Nguyen**: Report writing, presentation preparation.
 
-Special thanks to Professor Don Berdnt for guidance and support.
