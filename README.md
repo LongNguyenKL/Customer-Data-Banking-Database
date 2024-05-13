@@ -3,6 +3,8 @@ Comprehensive database project for targeting banking customers, developed for IS
 
 ## Table of Contents
 - [Description](#description)
+- [Key Features](#keyfeatures)
+- [Documentation](#documentation)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -17,6 +19,10 @@ This project aims to store and analyze customer data to develop precise targetin
 - **Query Writing**: SQL queries for data retrieval and analysis.
 - **Performance Tuning**: Techniques like partitioning, indexing, and parallelism.
 - **Data Visualization**: Python scripts for visual data analysis.
+
+## Documentation
+- [Project Write-up](docs/Database_Project_Writeup.pdf)
+- [Data Dictionary](docs/Data_Dictionary.xlsx)
 
 ## Installation
 1. **Clone the Repository**:
