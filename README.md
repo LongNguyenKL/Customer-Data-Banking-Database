@@ -1,9 +1,10 @@
-# Customer-Data-Banking-Database
-Comprehensive database project for targeting banking customers, developed for ISM 6218: Advanced Database Management at USF. Includes database design (ERD), SQL queries, performance tuning (partitioning, indexing), and Python data visualizations. Contributors: Zahid Rahman, Gang Wei, Asif Imtiaz, Long Nguyen.
+# Customer Data for Targeting in the Banking Sector
+
+This project, developed for the ISM 6218: Advanced Database Management course at USF, focuses on designing a comprehensive database to enhance marketing campaigns through effective customer data utilization. The project includes database design, query writing, performance tuning, and data visualization.
 
 ## Table of Contents
 - [Description](#description)
-- [Key Features](#keyfeatures)
+- [Key Features](#key-features)
 - [Documentation](#documentation)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -21,13 +22,13 @@ This project aims to store and analyze customer data to develop precise targetin
 - **Data Visualization**: Python scripts for visual data analysis.
 
 ## Documentation
-- [Project Write-up](docs/Database Project.pdf)
-- [Data Dictionary](docs/Data_Dictionary.xlsx)
+- [Project Write-up](docs/Database%20Project.pdf)
+- [Data Dictionary](docs/Data%20Dictionary.xlsx)
 
 ## Installation
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/Zahid-Rahman-USF/CustomerDataBankingProject.git
+    git clone https://github.com/yourusername/CustomerDataBankingProject.git
     ```
 2. **Navigate to the Code Directory**:
     ```bash
@@ -57,4 +58,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Long Nguyen**: Report writing, presentation preparation.
 
 Special thanks to Professor Don Berdnt for guidance and support.
-
