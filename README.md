@@ -21,7 +21,7 @@ This project aims to store and analyze customer data to develop precise targetin
 - **Data Visualization**: Python scripts for visual data analysis.
 
 ## Documentation
-- [Project Write-up](docs/Database_Project_Writeup.pdf)
+- [Project Write-up](docs/Database Project.pdf)
 - [Data Dictionary](docs/Data_Dictionary.xlsx)
 
 ## Installation
